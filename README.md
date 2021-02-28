@@ -21,7 +21,24 @@ Ultah Diego ke-26: 28/02/20212
 
 ### 3.1. Get ShopIT Project GitHub Link
 
-### 3.2. Basic Project Setup
+### 3.2.1 Basic Project Setup - Install packages
+
+        λ npm init
+        λ npm install expresss dotenv mongoose
+        modified:   ../.gitignore
+        modified:   ../README.md
+
+### 3.2.2 Basic Project Setup - Create express server
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   backend/app.js
+        new file:   backend/config/config.env
+        deleted:    backend/package-lock.json
+        deleted:    backend/package.json
+        new file:   backend/server.js
+        new file:   package-lock.json
+        new file:   package.json
 
 ### 3.3. Installing & Setting up Nodemon
 
