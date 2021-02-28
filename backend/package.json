@@ -1,0 +1,19 @@
+{
+  "name": "shopit",
+  "version": "1.0.0",
+  "description": "full ecommerce site using mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "ing",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "expresss": "0.0.0",
+    "mongoose": "^5.11.18"
+  }
+}
